@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/testovoe/static/css/main.9aa86527.css",
+    "main.js": "/testovoe/static/js/main.d9d40621.js",
+    "index.html": "/testovoe/index.html",
+    "main.9aa86527.css.map": "/testovoe/static/css/main.9aa86527.css.map",
+    "main.d9d40621.js.map": "/testovoe/static/js/main.d9d40621.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9aa86527.css",
+    "static/js/main.d9d40621.js"
+  ]
+}
