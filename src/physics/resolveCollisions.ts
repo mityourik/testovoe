@@ -1,4 +1,4 @@
-import { Ball } from "../models/Ball";
+import { Ball } from '../models/Ball';
 
 export const resolveCollisions = (balls: Ball[]) => {
     for (let i = 0; i < balls.length; i++) {
